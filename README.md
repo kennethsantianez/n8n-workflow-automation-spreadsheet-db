@@ -20,7 +20,7 @@ http://localhost:5678
 Log in to your account.
 
 ### Step 4: Import the Workflow
-- In the top-right corner, click the **three dots (⋮)** menu  
+- In the top-right corner, click the **three dots (...)** menu  
 - Select **"Import from file"**
 
 ### Step 5: Select the JSON File
