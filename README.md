@@ -19,16 +19,18 @@
 ### Step 4: Add Loop Node
 <img width="1366" height="768" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/63ee8bb1-da5a-4cb0-b7ee-81f27fce239a" />
 
-### Step 5: Add Code Node to Flatten the data(connect node in the loop branch
+### Step 5: Add Code Node to Flatten the data(connect node in the loop branch)
 <img width="1366" height="768" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/a37d39bb-2115-4e67-9629-7077af359455" />
 
-### Step 6: Add Spreadsheet/Google Sheet Node, then select 'Append or update rows in sheets'
-<img width="1366" height="768" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/f0044e50-be18-484b-bdd4-b6efffec9c16" />
-
-### Step 7: in loop branch add another Node which is Google Sheet and select 'Create Sheet'
+### Step 6: in loop branch add another Node which is Google Sheet and select 'Create Sheet'
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a71367a8-3c6d-4e08-b5a9-e93b788e8944" />
 
-### Step 8: Connect the Google Sheet(Append & Update Rows) in the Loop Node to automatically create a sheetname of by barangay
+### Step 7: Add Spreadsheet/Google Sheet Node after Code Node, then select 'Append or update rows in sheets'
+<img width="1366" height="768" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/f0044e50-be18-484b-bdd4-b6efffec9c16" />
+
+
+### Step 8: Connect the Google Sheet(Append & Update Rows) to the Loop Node to automatically create a sheetname of by barangay
+
 
 ## Notes
 - Create Spreadsheet file in your WPS, name it and inside is barangay, first_name, last_name, middle_name
